@@ -1,0 +1,119 @@
+.component5 {
+    height: 700px;
+    width: 100vw;
+    position: relative;
+    background-color: #222533;
+    min-width: 1200px;
+    min-height: 620px;
+}
+.main3 {
+    height: 613.08px;
+    width: 1170.38px;
+    position: absolute;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%);
+}
+.title2 {
+    width: 630.7px;
+    height: 163.08px;
+    margin-left: 270.32px;
+}
+.title2 h1{text-align: center;}
+.bigger0 {
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 36px;
+    color: white;
+}
+.smaller0 {
+    margin-top: 14.4px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    line-height: 24px;
+}
+.quarters1 {
+    height: 450px;
+    width: 1170.38px;
+    display: flex;
+    justify-content: space-between;
+}
+.quarter1 {
+    height: 100%;
+    width: 270.32px;
+}
+.qcyrcle0 {
+    margin-left: 35px;
+    width: 200px;
+    height: 200px;
+    background-color: #1ABC9C;
+    border-radius: 50%;
+    position: relative;
+}
+.qcyrcle1 {
+    width: 188.06px;
+    height: 188.06px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.qcyrcle2 {
+    width: 104.48px;
+    height: 104.48px;
+    background-color: #ECF0F1;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.percent {
+    font-family: 'Lato';
+    font-size: 18px;
+    color: #4E4E4E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.text2 {
+    width: 270.32px;
+    height: 239.06px;
+    margin-top: 10.9px;
+}
+.text2 h1{text-align: center;}
+.bigger1 {
+    margin-top: 10.9px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+.smaller1 {
+    margin-top: 16.5px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    line-height: 24px;
+}
+.qcyrcle0:hover {
+    background-color: #21C2F8;
+}
+.qcyrcle0:hover .qcyrcle2{
+    background-color: #2C3E50;
+}
+.qcyrcle0:hover .percent{
+    color: white;
+}
+
+
+
+
+
+
