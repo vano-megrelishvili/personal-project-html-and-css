@@ -1,0 +1,146 @@
+.component7 {
+    height: 842.5px;
+    width: 100vw;
+    background-color: white;
+    position: relative;
+    min-width: 1200px;
+    min-height: 670px;
+}
+.main5 {
+    width: 1170.24px;
+    height: 658.08px;
+    position: absolute;
+    top: 49%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.title4 {
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 36px;
+    color: #2C3E50;
+}
+.text3 {
+    text-align: center;
+    margin-top: 14.4px;
+    font-family: 'Lato';
+    font-size: 14px;
+    line-height: 24px;
+    color: #A1B1BC;
+}
+.grids0 {
+    width: 1170.24px;
+    height: 505px;
+    margin-top: 4%;
+}
+.menu0 {
+    box-sizing: border-box;
+    border-top: 1px solid #ECF0F1;
+    border-bottom: 4px solid #ECF0F1;
+    height: 55px;
+    width: 100%;
+    position: relative;
+}
+.list0 {
+    width: 800px;
+    height: 17px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0%,-50%);
+    display: flex;
+    justify-content: space-between;
+}
+.list0 h1 {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: #A1B1BC;
+}
+.sort {
+    background-color: #ECF0F1;
+    width: 122px;
+    height: 36px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(0%,-50%);
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    color: #2C3E50;
+}
+.grid0 {
+    margin-top: 50px;
+    height: 400px;
+    width: 100%;
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    grid-template-columns: repeat(4,1fr);
+}
+.cell {
+    background-color: #ECF0F1;
+}
+.transparent {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    display: none;
+}
+.upper0 {
+    width: 100%;
+    height: 130px;
+    background-color: #2C3E50;
+    position: relative;
+}
+@font-face {
+    src: url("styles folder/Lato-Hairline.ttf");
+    font-family: 'Lato Hairline';
+}
+.plus {
+    font-family: 'Lato Hairline';
+    font-weight: 300;
+    font-weight: 400px;
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.triangle {
+    width: 0; 
+    height: 0; 
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-bottom: 12px solid white;
+    position: absolute;
+    left: 50%;
+    bottom: 0%;
+    transform: translate(-50%);
+}
+.bigger4 {
+    margin-top: 17.5px;
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 15px;
+    font-weight: 900;
+    color: #2C3E50;
+    letter-spacing: 2px;
+}
+.smaller4 {
+    text-align: center;
+    margin-top: 3.1px;
+    font-family: 'Lato';
+    font-size: 12px;
+    font-weight: 400;
+    color: #A1B1BC;
+    letter-spacing: 2px;
+}
+.cell:hover .transparent {
+    display: block;
+}
+
+
