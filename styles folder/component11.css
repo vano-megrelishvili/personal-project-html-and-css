@@ -1,0 +1,95 @@
+.component11 {
+    width: 100vw;
+    height: 1264px;
+    background-color: #F9FBFB;
+    position: relative;
+    min-width: 1200px;
+    min-height: 1170px;
+}
+.main9 {
+    width: 1190px;
+    height: 1076px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.upper4 {
+    height: 544px;
+    width: 100%;
+    display: flex;
+}
+.textarea3 {
+    width: 580px;
+    height: 442.28px;
+    margin-top: 60px;
+    position: relative;
+    margin-left: 55.3px;
+    font-family: 'Lato';
+}
+.title9 {
+    font-family: 'Lato';
+    font-size: 36px;
+    font-weight: 300;
+}
+.textbox1 {
+    width: 100%;
+    height: 353.2px;
+    position: absolute;
+    bottom: 0%;
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    grid-template-columns: repeat(2,1fr);
+    grid-row-gap: 33.5px;
+    grid-column-gap: 24px;
+}
+.titlebox1 {
+    width: 100%;
+    height: 40px;
+    display: flex;
+}
+.innertitle {
+    font-family: 'Lato';
+    font-size: 18px;
+    font-weight: 700;
+    color: #2C3E50;
+    align-self: center;
+    padding-left: 9px;
+}
+.text7 {
+    font-family: 'Lato';
+    font-weight: 400;
+    padding-top: 8.3px;
+    font-size: 14px;
+    color: #A1B1BC;
+    line-height: 24px;
+}
+.viewdetail {
+    font-family: 'Lato';
+    font-size: 15px;
+    color: #1ABC9C;
+    font-weight: 700;
+    padding-top: 4px;
+}
+.lower4 {
+    height: 452.08px;
+    width: 100%;
+    margin-top: 80px;
+    display: flex;
+}
+.textarea4 {
+    width: 580px;
+    height: 442.28px;
+    position: relative;
+    font-family: 'Lato';
+}
+.title10 {
+    padding-top: 10px;
+    font-family: 'Lato';
+    font-size: 36px;
+    font-weight: 300;
+}
+.mockup {
+    margin-left: 34px;
+    margin-top: 15px;
+}
