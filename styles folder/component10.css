@@ -83,11 +83,10 @@
     text-align: center;   
 }
 .col0 {
-    height: 475px;
+    height: 100%;
     width: 25%;
     display: grid;
-    grid-gap: 1px;
-    grid-template-rows: 152px repeat(6,39px) 1fr;
+    grid-template-rows:17px 152px repeat(6,39px) 1fr;
     grid-template-columns: 1fr;
 }
 .upper3 {
@@ -135,7 +134,8 @@
 .container0 {
     width: 100%;
     height: 145px;
-    margin-top: 100px;
+    position: absolute;
+    bottom: 0%;
     display: flex;
     box-sizing: border-box;
     border: 1px solid #EAEBEC;
@@ -179,9 +179,26 @@
 }
 .purchase1 {
     text-align: center;
-    padding-top: 13.6px;
     font-family: 'Lato';
     font-size: 18px;
     font-weight: 700;
     color: white;
+}
+.col1:hover .show1 {
+    background-color: #32465B;
+}
+.col1:hover .u1 h1{
+    padding-top: 10px;
+}
+.col2:hover .show2 {
+    background-color: #32465B;
+}
+.col2:hover .u2 h1{
+    padding-top: 10px;
+}
+.col3:hover .show3 {
+    background-color: #32465B;
+}
+.col3:hover .u3 h1{
+    padding-top: 10px;
 }
