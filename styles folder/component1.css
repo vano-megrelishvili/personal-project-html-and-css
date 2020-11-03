@@ -58,10 +58,6 @@
     border: 2px solid white;
     box-sizing: border-box;
 }
-.button:hover {
-    background-color: #1ABC9C;
-    border: none;
-}
 .first {
     margin-left: 385.9px;
     border-radius: 2px;   
@@ -69,6 +65,8 @@
 .second {
     margin-left: 20px;
     border-radius: 2px;
+    background-color: #1ABC9C;
+    border: none;
 }
 .cyrcles {
     width: 86px;
