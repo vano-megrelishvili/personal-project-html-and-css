@@ -57,6 +57,9 @@
     font-size: 14px;
     color: #A1B1BC;
 }
+.list0 h1:hover {
+    color: #1ABC9C;
+}
 .sort {
     background-color: #ECF0F1;
     width: 122px;
